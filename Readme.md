@@ -8,7 +8,7 @@ Img-crypt is a user-friendly GUI desktop application for encrypting and decrypti
     ```bash
     npm install
     ```
-    It will install all the required dependencies present in package.json 
+    It will install all the required dependencies (node modules) present in package.json 
 
 2. **Start the Application** :
     ```bash
